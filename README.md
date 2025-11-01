@@ -1,16 +1,111 @@
-# React + Vite
+# ✨ GlowGoddess - Premium Beauty E-Commerce UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*A modern, responsive e-commerce UI for a luxury beauty brand built with React and Tailwind CSS.* 🌸
+#🚀 Features
+#✨ Core Features
+Responsive Design - Mobile-first approach with seamless desktop experience
 
-Currently, two official plugins are available:
+Modern UI/UX - Clean, elegant design with smooth animations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Product Catalog - Beautiful product displays with filtering and search
 
-## React Compiler
+Shopping Cart - Persistent cart functionality with quantity management
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+User Accounts - Profile management and order history
 
-## Expanding the ESLint configuration
+Wishlist - Save favorite products for later
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#🛍️ E-commerce Features
+Product categories (Skincare, Makeup, Haircare, Fragrance)
+
+Product search and filtering
+
+Product details with image galleries
+
+Shopping cart with add/remove functionality
+
+Order history and tracking
+
+Wishlist management
+
+#🎨 Design Features
+Gradient color schemes (Pink to Purple theme)
+
+Glass morphism effects
+
+Smooth hover animations
+
+Professional typography
+
+#🛠️ Technology Stack
+Frontend Framework: React 18
+
+Styling: Tailwind CSS
+
+Icons: Lucide React
+
+Routing: React Router DOM
+
+State Management: React Context API + useState
+
+Build Tool: Vite (or Create React App)
+
+#🎯 Key Pages
+#🏠 Home Page
+Hero section with promotional banners
+
+Featured product categories
+
+Best-selling products
+
+Special offers and discounts
+
+#🛍️ Shop Page
+Product grid layout
+
+Category filtering
+
+Price range filtering
+
+Search functionality
+
+Sort options (price, rating, newest)
+
+#👤 User Profile
+Personal information management
+
+Order history with status tracking
+
+Address book management
+
+Wishlist integration
+
+Loyalty points display
+
+#📦Order History
+Comprehensive order timeline
+
+Order status tracking
+
+Filter by order status
+
+Search orders
+
+#🛒 Shopping Cart
+Cart item management
+
+Quantity adjustments
+
+Price calculations
+
+Coupon code application
+
+Secure checkout flow
+
+#💝 Wishlist
+Saved products collection
+
+Move to cart functionality
+
+
+
