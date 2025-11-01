@@ -38,12 +38,17 @@ A modern, responsive e-commerce UI for a luxury beauty brand built with React an
 ## 🎯 Key Pages
 
 ### 🏠 Home Page
+![Home_Page](https://github.com/user-attachments/assets/233bda69-8a78-4a61-8419-92e28f7615fb)
+
+
 - Hero section with promotional banners
 - Featured product categories
 - Best-selling products
 - Special offers and discounts
 
 ### 🛍️ Shop Page
+![Shop_Page](https://github.com/user-attachments/assets/876596ca-d4cf-4e54-8e2e-665d9f72d01b)
+
 - Product grid layout
 - Category filtering
 - Price range filtering
@@ -75,7 +80,7 @@ A modern, responsive e-commerce UI for a luxury beauty brand built with React an
 - Move to cart functionality
 
 
-### Home Page
 
-![Home_Page](https://github.com/user-attachments/assets/233bda69-8a78-4a61-8419-92e28f7615fb)
+
+
 
