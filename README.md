@@ -73,6 +73,6 @@ A modern, responsive e-commerce UI for a luxury beauty brand built with React an
 ### 💝 Wishlist
 - Saved products collection
 - Move to cart functionality
-
+![Home Page](./Desktop/Home_Page.jpeg)
 
 
