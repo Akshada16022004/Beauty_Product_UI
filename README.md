@@ -1,3 +1,4 @@
+
 # ✨ GlowGoddess - Premium Beauty E-Commerce UI
 
 A modern, responsive e-commerce UI for a luxury beauty brand built with React and Tailwind CSS. 🌸
@@ -55,20 +56,22 @@ A modern, responsive e-commerce UI for a luxury beauty brand built with React an
 - Search functionality
 - Sort options (price, rating, newest)
 
-### 👤 User Profile
-- Personal information management
-- Order history with status tracking
-- Address book management
-- Wishlist integration
-- Loyalty points display
+
 
 ### 📦 Order History
+![History_Page](https://github.com/user-attachments/assets/9366763f-0811-4842-a74c-59b7d3435206)
+
 - Comprehensive order timeline
 - Order status tracking
 - Filter by order status
 - Search orders
+- 
+### 🎀 Collections Page
+![Collections_Page](https://github.com/user-attachments/assets/50cea735-d8e7-4ba4-af0a-45ff3211996c)
 
 ### 🛒 Shopping Cart
+![Cart_Page](https://github.com/user-attachments/assets/ecb1fa17-cbdb-4e6e-92f0-ba379b5d0c61) 
+
 - Cart item management
 - Quantity adjustments
 - Price calculations
@@ -76,10 +79,19 @@ A modern, responsive e-commerce UI for a luxury beauty brand built with React an
 - Secure checkout flow
 
 ### 💝 Wishlist
+![WishList_Page](https://github.com/user-attachments/assets/484686a2-e617-42fb-9058-1677be46a3e6)
+
 - Saved products collection
 - Move to cart functionality
 
+### 👤 User Profile
+![Profile_Page](https://github.com/user-attachments/assets/6c153a51-affc-444a-9349-a9d6e5b5a49a)
 
+- Personal information management
+- Order history with status tracking
+- Address book management
+- Wishlist integration
+- Loyalty points display
 
 
 
